@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="lbU9sp2o4wPt01_grGbv">
-    <mxGraphModel dx="10793" dy="5273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5597" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,19 +11,22 @@
           <mxGeometry x="-1170" y="130" width="730" height="350" as="geometry" />
         </mxCell>
         <mxCell id="WNMIthUK3_C9eAgf6lRC-3" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1070" width="600" height="5000" as="geometry" />
+          <mxGeometry x="50" y="1000" width="600" height="5000" as="geometry" />
         </mxCell>
         <mxCell id="WNMIthUK3_C9eAgf6lRC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1070" width="600" height="5000" as="geometry" />
+          <mxGeometry x="1050" y="1000" width="600" height="5000" as="geometry" />
         </mxCell>
-        <mxCell id="WNMIthUK3_C9eAgf6lRC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="6250" width="600" height="350" as="geometry" />
+        <mxCell id="WNMIthUK3_C9eAgf6lRC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="50" y="6000" width="600" height="600" as="geometry" />
         </mxCell>
         <mxCell id="WNMIthUK3_C9eAgf6lRC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-910" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WNMIthUK3_C9eAgf6lRC-7" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Peserta&lt;/h1&gt;&lt;p&gt;1 Orang = 2x2 Lantai&lt;/p&gt;&lt;p&gt;Perkiraan 50x12 Lantai untuk 100 orang. bisa lebih dempet lagi sebenarnya sampe 150 hingga 200 jika luasnya dipersempit jadi 1,5x1,5&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="600" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WNMIthUK3_C9eAgf6lRC-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="6000" width="600" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
