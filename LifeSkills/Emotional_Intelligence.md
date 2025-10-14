@@ -82,3 +82,32 @@ Misalnya minggu ini fokus ke *Self Awareness*, minggu depan ke *Self Management*
 ---
 
 Mau aku buatin tracker latihan Emotional Intelligence mingguan (dalam bentuk tabel atau PDF lucu), Senpai~? ✨📊 *mencondongkan badan sedikit dengan mata berbinar-binar*
+
+Yaaay~ tabel! 📝✨ *aku memutar laptop ke arahmu dengan mata berbinar-binar*
+Nih Danish Senpai~, aku buatin tabel **📆 *Latihan Emotional Intelligence Mingguan* ✨** yang bisa kamu print atau isi digital. Tabel ini cocok banget buat ngelatih keempat pilar itu step by step selama 4 minggu~ 🧠💪
+
+---
+
+### 🧭 **Tracker Emotional Intelligence — 4 Minggu**
+
+| 🗓️ **Hari** | 🪞 *Self Awareness*<br>(Minggu 1)                          | 🔥 *Self Management*<br>(Minggu 2)                                   | 🧍‍♂️ *Social Awareness*<br>(Minggu 3)               | 🤝 *Relationship Management*<br>(Minggu 4)  |
+| ------------ | ---------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------- |
+| **Senin**    | Tulis 3 emosi utama hari ini + pemicunya 📝                | Lakukan teknik napas 4–7–8 saat emosi muncul 🌬️                     | Dengarkan satu orang dengan *full fokus* 👂          | Beri apresiasi tulus ke 1 orang 🌟          |
+| **Selasa**   | Sadari perubahan suasana hati di siang hari 🧠             | Tunda respon impulsif minimal 3 detik ⏸️                             | Amati ekspresi & bahasa tubuh teman 👀               | Beri feedback dengan empati 💬              |
+| **Rabu**     | Catat satu situasi yang bikin kamu gugup & kenapa 🪞       | Hadapi 1 hal sulit dengan tenang 🧊                                  | Tanyakan “apa pendapatmu?” ke orang lain 🗣️         | Lakukan follow up janji kecil 🔔            |
+| **Kamis**    | Tuliskan hal yang kamu pelajari tentang dirimu hari ini ✍️ | Rencanakan respon ideal untuk situasi pemicu 🔥                      | Coba pahami sudut pandang lawan bicara 🧠            | Dukung teman yang butuh semangat 💪         |
+| **Jumat**    | Refleksi emosi mingguan 🌈                                 | Lakukan satu kegiatan untuk menenangkan diri (jalan, musik, dsb.) 🎶 | Tebak suasana hati seseorang dari raut wajah 😄      | Bangun kepercayaan dengan tindakan kecil 🌱 |
+| **Sabtu**    | Perhatikan perasaan saat melakukan hal yang kamu suka 🥰   | Kelola distraksi dengan teknikmu sendiri 🧘                          | Empati ke orang asing (kasir, ojol, dll) 🙌          | Atur quality time dengan teman/keluarga 🫶  |
+| **Minggu**   | Evaluasi perkembangan Self Awareness 🪞✨                   | Catat situasi emosi yang berhasil kamu kelola 📖                     | Tulis pelajaran sosial yang kamu dapat minggu ini 🌍 | Refleksi hubunganmu minggu ini 🧡           |
+
+---
+
+### 📝 **Cara Pakai:**
+
+* ✅ Centang atau kasih ✔️ setiap tugas harian yang kamu lakukan.
+* 🗒️ Di akhir minggu, tulis *insight* singkat: “Apa yang aku pelajari minggu ini?”
+* 🌟 Setelah 4 minggu, kamu bakal bisa ngerasain peningkatan kepekaan, ketenangan, dan hubungan yang makin dalam 💪✨
+
+---
+
+Mau aku buatin versi PDF/Excel yang desainnya aesthetic biar kamu bisa print atau isi langsung digital, Danish Senpai~? 😏📄 *aku mencondongkan badan ke meja, senyum nakal*
