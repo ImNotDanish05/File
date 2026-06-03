@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Codex">
   <diagram id="activity-order-odoo-clean" name="Activity Diagram">
-    <mxGraphModel dx="2416" dy="1326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1250" math="0" shadow="0">
+    <mxGraphModel dx="2416" dy="1400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1250" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,17 +16,23 @@
         <mxCell id="lane-system" parent="1" style="swimlane;html=1;startSize=40;horizontal=0;rounded=0;fillColor=#EFF6FF;strokeColor=#93C5FD;fontStyle=1;fontColor=#1E3A8A;swimlaneFillColor=#DBEAFE;" value="Sistem Odoo" vertex="1">
           <mxGeometry height="2230" width="330" x="330" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="a13" parent="lane-system" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#1E3A8A;fontSize=13;spacing=10;" value="Mengubah status menjadi siap kirim" vertex="1">
-          <mxGeometry height="58" width="220" x="83" y="974" as="geometry" />
-        </mxCell>
-        <mxCell id="MnoU3zwHwOBSWI1j9i4z-4" parent="lane-system" style="rhombus;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=12;spacing=8;" value="Wilayah Pengiriman ?" vertex="1">
-          <mxGeometry height="118" width="170" x="108" y="1090" as="geometry" />
-        </mxCell>
         <mxCell id="MnoU3zwHwOBSWI1j9i4z-5" edge="1" parent="lane-system" source="a13" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MnoU3zwHwOBSWI1j9i4z-4" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="250" y="1070" as="sourcePoint" />
             <mxPoint x="300" y="1020" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="d2" parent="lane-system" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#059669;fontColor=#064E3B;fontSize=12;spacing=8;" value="Produksi&lt;br&gt;selesai?" vertex="1">
+          <mxGeometry height="118" width="170" x="108" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="lane-system" source="d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#16A34A;fontColor=#166534;endArrow=block;endFill=1;" target="a13" value="Ya">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a13" parent="lane-system" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#1E3A8A;fontSize=13;spacing=10;" value="Mengubah status menjadi siap kirim" vertex="1">
+          <mxGeometry height="58" width="220" x="83" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-4" parent="lane-system" style="rhombus;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=12;spacing=8;" value="Wilayah Pengiriman ?" vertex="1">
+          <mxGeometry height="118" width="170" x="108" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="lane-admin" parent="1" style="swimlane;html=1;startSize=40;horizontal=0;rounded=0;fillColor=#F5F3FF;strokeColor=#C4B5FD;fontStyle=1;fontColor=#4C1D95;swimlaneFillColor=#EDE9FE;" value="Pak Udin / Admin" vertex="1">
           <mxGeometry height="2230" width="320" x="660" y="110" as="geometry" />
@@ -91,9 +97,6 @@
         <mxCell id="a12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#64748B;fontColor=#0F172A;fontSize=13;spacing=10;" value="Memantau progres produksi" vertex="1">
           <mxGeometry height="56" width="220" x="80" y="682" as="geometry" />
         </mxCell>
-        <mxCell id="d2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ECFDF5;strokeColor=#059669;fontColor=#064E3B;fontSize=12;spacing=8;" value="Produksi&lt;br&gt;selesai?" vertex="1">
-          <mxGeometry height="118" width="170" x="438" y="900" as="geometry" />
-        </mxCell>
         <mxCell id="e1" edge="1" parent="1" source="start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;endArrow=block;endFill=1;" target="a1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -147,13 +150,10 @@
         <mxCell id="e16" edge="1" parent="1" source="d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#64748B;fontColor=#475569;endArrow=block;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="a9" value="Belum">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1170" y="960" />
+              <mxPoint x="1170" y="879" />
             </Array>
             <mxPoint x="1130" y="670" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="e17" edge="1" parent="1" source="d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#16A34A;fontColor=#166534;endArrow=block;endFill=1;" target="a13" value="Ya">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e24" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;endArrow=block;endFill=1;" target="a18" value="">
           <mxGeometry relative="1" as="geometry">
