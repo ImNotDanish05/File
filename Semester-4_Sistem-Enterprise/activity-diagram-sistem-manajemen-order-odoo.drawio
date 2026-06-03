@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Codex">
   <diagram id="activity-order-odoo-clean" name="Activity Diagram">
-    <mxGraphModel dx="3451" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1250" math="0" shadow="0">
+    <mxGraphModel dx="4027" dy="2333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1250" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,17 @@
         </mxCell>
         <mxCell id="MnoU3zwHwOBSWI1j9i4z-15" parent="lane-client" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#64748B;fontColor=#0F172A;fontSize=13;spacing=10;" value="Menerima barang &amp;amp; pesanan selesai" vertex="1">
           <mxGeometry height="56" width="220" x="70" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-22" parent="lane-client" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#64748B;fontColor=#0F172A;fontSize=13;spacing=10;" value="Menerima barang &amp;amp; bayar di tempat (COD)" vertex="1">
+          <mxGeometry height="56" width="220" x="70" y="1540" as="geometry" />
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-23" parent="lane-client" style="ellipse;html=1;shape=endState;fillColor=#111827;strokeColor=#111827;" value="" vertex="1">
+          <mxGeometry height="34" width="34" x="163" y="1436" as="geometry" />
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-24" edge="1" parent="lane-client" source="MnoU3zwHwOBSWI1j9i4z-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MnoU3zwHwOBSWI1j9i4z-23" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="1400" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="lane-system" parent="1" style="swimlane;html=1;startSize=40;horizontal=0;rounded=0;fillColor=#EFF6FF;strokeColor=#93C5FD;fontStyle=1;fontColor=#1E3A8A;swimlaneFillColor=#DBEAFE;" value="Sistem Odoo" vertex="1">
           <mxGeometry height="2230" width="330" x="330" y="110" as="geometry" />
@@ -42,6 +53,9 @@
         </mxCell>
         <mxCell id="MnoU3zwHwOBSWI1j9i4z-8" parent="lane-system" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#1E3A8A;fontSize=13;spacing=10;" value="Memproses &amp;amp; Memvalidasi pembayaran" vertex="1">
           <mxGeometry height="58" width="220" x="83" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-25" parent="lane-system" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#1E3A8A;fontSize=13;spacing=10;" value="Memproses &amp;amp; Memvalidasi pembayaran" vertex="1">
+          <mxGeometry height="58" width="220" x="70" y="1540" as="geometry" />
         </mxCell>
         <mxCell id="lane-admin" parent="1" style="swimlane;html=1;startSize=40;horizontal=0;rounded=0;fillColor=#F5F3FF;strokeColor=#C4B5FD;fontStyle=1;fontColor=#4C1D95;swimlaneFillColor=#EDE9FE;" value="Pak Udin / Admin" vertex="1">
           <mxGeometry height="2230" width="670" x="660" y="110" as="geometry" />
@@ -264,11 +278,27 @@
         <mxCell id="MnoU3zwHwOBSWI1j9i4z-21" edge="1" parent="1" source="MnoU3zwHwOBSWI1j9i4z-13" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MnoU3zwHwOBSWI1j9i4z-15" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1840" y="1370" />
+              <mxPoint x="1840" y="1380" />
               <mxPoint x="190" y="1380" />
             </Array>
             <mxPoint x="980" y="1410" as="sourcePoint" />
             <mxPoint x="1030" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-26" edge="1" parent="1" source="MnoU3zwHwOBSWI1j9i4z-18" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MnoU3zwHwOBSWI1j9i4z-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="1590" />
+              <mxPoint x="190" y="1600" />
+            </Array>
+            <mxPoint x="980" y="1570" as="sourcePoint" />
+            <mxPoint x="1030" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MnoU3zwHwOBSWI1j9i4z-27" edge="1" parent="1" source="MnoU3zwHwOBSWI1j9i4z-22" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MnoU3zwHwOBSWI1j9i4z-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="1650" as="sourcePoint" />
+            <mxPoint x="650" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
