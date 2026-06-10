@@ -1,23 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-EKEGr5oz1gBVh0D--mW">
-    <mxGraphModel dx="1421" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1503" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="FORWARD LINKAGE - Mahasiswa" vertex="1">
-          <mxGeometry height="230" width="500" x="1043" y="20" as="geometry" />
+          <mxGeometry height="460" width="500" x="1043" y="20" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="E-PLATFORM" vertex="1">
           <mxGeometry height="224" width="276" x="517" y="20" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="BACKWARD LINKAGE - Mitra/Penyedia" vertex="1">
-          <mxGeometry height="246" width="773" x="20" y="264" as="geometry" />
+          <mxGeometry height="356" width="773" x="20" y="264" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-4" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Penyedia Peluang&#xa;Instansi/Kampus/Perusahaan" vertex="1">
           <mxGeometry height="102" width="260" x="45" y="311" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-5" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="&lt;b&gt;Detail Peluang&lt;/b&gt;&#xa;- Jenis: Magang/Lomba&#xa;- Syarat: IPK &amp;gt; 3.0&#xa;- Kuota: Terbatas&#xa;[SUBMIT] [EDIT]" vertex="1">
-          <mxGeometry height="150" width="226" x="542" y="325" as="geometry" />
+          <mxGeometry height="150" width="226" x="490" y="430" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-6" parent="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="&lt;b&gt;Platform Karier AI&lt;/b&gt;" vertex="1">
           <mxGeometry height="150" width="150" x="580" y="59" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry height="54" width="135" x="1081" y="103" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="&lt;b&gt;Profil &amp;amp; Rekomendasi AI&lt;/b&gt;&#xa;- Jurusan: TRK&#xa;- Minat: Web/IoT&#xa;- Match Rate: 92%&#xa;[APPLY SEKARANG]" vertex="1">
-          <mxGeometry height="150" width="240" x="1278" y="59" as="geometry" />
+          <mxGeometry height="150" width="240" x="1275" y="240" as="geometry" />
         </mxCell>
         <mxCell id="i7FGlU6TBGJ-q3NhMBYK-9" edge="1" parent="1" source="i7FGlU6TBGJ-q3NhMBYK-4" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.29;entryX=0.14;entryY=1;rounded=0;" target="i7FGlU6TBGJ-q3NhMBYK-6" value="1. Posting Peluang">
           <mxGeometry relative="1" as="geometry">
